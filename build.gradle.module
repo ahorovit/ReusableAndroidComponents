@@ -35,6 +35,7 @@ android {
     // compileOptions { ... }
     // kotlinOptions { ... }
 
+    // Enable View Binding in this module
     buildFeatures {
         viewBinding true
     }
